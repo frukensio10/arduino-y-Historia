@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -184,7 +184,7 @@
 </main>
 
 <footer>
-    &copy; 2025 Proyecto EduTec | Desarrollado para docentes interesados en integrar tecnología y humanidades
+    &copy; 2025 Proyecto Correa-Gauna | Desarrollado para docentes
 </footer>
 
 </body>
